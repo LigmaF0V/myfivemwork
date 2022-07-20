@@ -14,7 +14,7 @@ vMenu is server sided menu for FiveM servers, including full\* permission suppor
 
 ### vMENU Screenshots
 
-|Main Menu|Player Options|
+|Main Menu|
 |:-:|:-:|
 |![Main Menu](https://cdn.discordapp.com/attachments/998912639545655296/999266246862311484/unknown.png)|
 |![Player Releated Options](https://cdn.discordapp.com/attachments/998912639545655296/999267603098898462/unknown.png)|
