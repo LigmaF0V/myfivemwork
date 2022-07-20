@@ -15,7 +15,6 @@ vMenu is server sided menu for FiveM servers, including full\* permission suppor
 ### vMENU Screenshots
 
 |Main Menu|
-|:-:|:-:|
 |![Main Menu](https://cdn.discordapp.com/attachments/998912639545655296/999266246862311484/unknown.png)|
 |![Player Releated Options](https://cdn.discordapp.com/attachments/998912639545655296/999267603098898462/unknown.png)|
 |![Mp Ped Customization](https://cdn.discordapp.com/attachments/998912639545655296/999268408375902228/unknown.png)
@@ -25,10 +24,11 @@ vMenu is server sided menu for FiveM servers, including full\* permission suppor
 ## Trouble shooting & support
 Take a look at the docs first of all. I will ignore you if your question is answered on the docs or the forum topic.
 
-- [direct help dm](LigmaF0V#1058)
-- [v2help](!Nick#0001)
-- [v3help](!Aesthetic#0104)
-- [v4help](G1ANNHS#9999)
+- [direct help dm]
+- LigmaF0V#1058
+- !Nick#0001
+- !Aesthetic#0104
+- G1ANNHS#9999
 
 
 --------
